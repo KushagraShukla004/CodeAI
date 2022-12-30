@@ -8,6 +8,7 @@
 }
 
 body {
+  margin: 0;
   background: #343541;
 }
 
@@ -126,14 +127,8 @@ form {
 @media screen and (max-width: 767px) {
   form {
     width: 85%;
-    max-width: 1280px;
     margin: 7vh auto;
     padding: 2%;
-    background: #40414f;
-
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
   }
 }
 
