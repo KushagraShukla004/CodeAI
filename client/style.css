@@ -125,6 +125,12 @@ form {
 }
 
 @media screen and (max-width: 767px) {
+  body {
+    margin: 0;
+  }
+  #app {
+    height: 98vh;
+  }
   form {
     width: 85%;
     margin: 7vh auto;
