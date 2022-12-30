@@ -130,6 +130,7 @@ form {
   }
   #app {
     height: 98vh;
+    box-sizing: border-box;
   }
   form {
     width: 85%;
